@@ -14,3 +14,6 @@ Run `terraform init` to configure terraform remote backend "S3" and fetch terraf
 Update DNS zone name in `terraform.tfvars`
 
 Run `terraform apply` to create services in aws
+
+
+Now go to regional network folder to aws VPC
