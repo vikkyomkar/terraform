@@ -16,4 +16,4 @@ Update DNS zone name in `terraform.tfvars`
 Run `terraform apply` to create services in aws
 
 
-Now go to regional network folder to aws VPC
+Now go to regional network folder to create aws VPC
